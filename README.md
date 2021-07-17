@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siavash Ebrahimi</h1>
 <h3 align="center">WordPress is my passion, and I am constantly striving to make myself better, and hopefully, help out a few people along the way.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siaeb&label=Profile%20views&color=0e75b6&style=flat" alt="siaeb" /> </p>
-
 - 👨‍💻 All of my open-source projects are available at [https://github.com/siaeb](https://github.com/siaeb)
   
 - 💬 Ask me about **WordPress, React**
